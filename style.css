@@ -9,6 +9,9 @@
   position: relative;
 }
 
+.hero-title {
+  font-weight: 700;
+}
 /* text in the top navigation bar */
 .navbar-brand {
   color: white;
