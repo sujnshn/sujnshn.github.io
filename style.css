@@ -34,7 +34,7 @@ nav .navbar-nav li a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: mediumseagreen;
+  color: darkslateblue;
 }
 
 /* about section image css */
@@ -61,15 +61,20 @@ nav .navbar-nav li a {
   text-align: center;
 }
 .card:hover .servicesIcon {
-  color: mediumseagreen;
+  color: darkslateblue;
 }
 .servicesText:hover {
-  border: 1px solid mediumseagreen;
+  border: 1px solid darkslateblue;
+}
+
+.btn-success {
+  background-color: darkslateblue; /* Change this to your desired color */
+  border-color: darkslateblue; /* Change border color if needed */
 }
 
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark {
-  background-color: mediumseagreen;
+  background-color: darkslateblue;
 }
 
 /* social media icons styling */
@@ -82,7 +87,7 @@ nav .navbar-nav li a {
 .fa-twitter:hover,
 .fa-linkedin:hover,
 .fa-twitch:hover {
-  color: mediumseagreen;
+  color: darkslateblue;
 }
 .fab {
   color: #000000;
