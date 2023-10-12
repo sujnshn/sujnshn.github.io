@@ -68,8 +68,9 @@ nav .navbar-nav li a {
 }
 
 .btn-success {
-  background-color: darkslateblue; /* Change this to your desired color */
-  border-color: darkslateblue; /* Change border color if needed */
+  /* Trying to figure out css with button */
+  background-color: darkslateblue;
+  border-color: darkslateblue;
 }
 
 /* display background color black on navbar scroll */
