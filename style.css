@@ -1,5 +1,8 @@
 #footer {
   width: 100vw;
+  position: relative;
+  left: calc(-50vw + 50%);
+  right: calc(-50vw + 50%);
 }
 
 .whole {
@@ -87,7 +90,13 @@ nav .navbar-nav li a {
   font-size: 36px;
   cursor: pointer;
 }
-
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-linkedin:hover,
+.fa-twitch:hover {
+  color: white;
+}
 .fab {
   color: white;
 }
