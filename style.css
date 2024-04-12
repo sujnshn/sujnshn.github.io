@@ -1,3 +1,7 @@
+#footer {
+  width: 100vw;
+}
+
 .whole {
   font-family: "Montserrat", sans-serif;
 }
@@ -83,20 +87,14 @@ nav .navbar-nav li a {
   font-size: 36px;
   cursor: pointer;
 }
-.fa-facebook:hover,
-.fa-instagram:hover,
-.fa-twitter:hover,
-.fa-linkedin:hover,
-.fa-twitch:hover {
-  color: darkslateblue;
-}
+
 .fab {
-  color: #000000;
+  color: white;
 }
 
 /* footer styling */
 #footer {
-  background-color: lightgrey;
+  background-color: darkslateblue;
   text-align: center;
 }
 
